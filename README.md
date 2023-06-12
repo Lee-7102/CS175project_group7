@@ -1,4 +1,6 @@
 # CS175project_group7
+Refer to the project  Deep-QLearning-Agent-for-Traffic-Signal-Control by Andrea Vidal.
+https://github.com/AndreaVidali/Deep-QLearning-Agent-for-Traffic-Signal-Control.git
 ## generator.py
 Generate cars on the map in SUMO.
 ## memory.py
