@@ -3,6 +3,8 @@
 Generate cars on the map in SUMO.
 ## memory.py
 Store the experience during simulations.
+## model.py
+Build the Q-network. 
 ## testing_main.py
 Load the needed modules from other files and start to test the model.
 ## testing_simulation.py
