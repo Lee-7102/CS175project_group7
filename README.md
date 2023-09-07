@@ -1,7 +1,4 @@
 # CS175project_group7
-## demon
-
-<video src="simulation-group7.mov"></video>
 
 ## generator.py
 Generate cars on the map in SUMO.
